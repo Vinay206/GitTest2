@@ -1,5 +1,5 @@
 #!/bin/bash
-------------------Installation Started---------------------------
+echo ------------------Installation Started---------------------------
 sleep 5s
 echo installation_done
-------------------Installation ended-----------------------------
+echo ------------------Installation ended-----------------------------
